@@ -2,14 +2,12 @@
 
 ## Getting Started
 
-Browse and address `TODO:` comments in `View -> Task List` to learn the codebase and understand next steps for turning the generated code into production code.
+Clone this project and the [directoryAppCore project](https://github.com/clariechek/directoryAppCore) into the same directory.
+Then, run the application.
 
-Relaunch Template Studio to modify the project by right-clicking on the project in `View -> Solution Explorer` then selecting `Add -> New Item (Template Studio)`.
+The application has a search field where you can enter the path of the directory you would like to search.
+The Reload button updates the search path. It also updates the display if there were any changes to the same directory.
 
-## Changelog
+Below is a demo of the application:
+https://github.com/clariechek/directoryApp/assets/44283405/cca1dda3-63bb-4ed7-824f-d939d5ca6dcd
 
-See [releases](https://github.com/microsoft/TemplateStudio/releases) and [milestones](https://github.com/microsoft/TemplateStudio/milestones).
-
-## Feedback
-
-Bugs and feature requests should be filed at https://aka.ms/templatestudio.
